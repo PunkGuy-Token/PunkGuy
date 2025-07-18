@@ -23,7 +23,7 @@ PunkGuy (PUNKGUY) is an ERC-20 token with the following specifications:
 - **Total Supply**: 1,000,000,000 tokens (capped)  
 - **Decimals**: 18  
 - **Contract Address**: 0xD17E4f613168E7Edd8B419Ceee142F2a8de07eFE  
-- **Blockchain**: Ethereum  
+- **Blockchain**: Base
 
 ### Distribution
 - **Initial Mint**: 100% of the total supply (1 billion tokens) is minted to the deployer’s address upon contract deployment.  
